@@ -1,0 +1,6 @@
+django~=2.1.0
+django-extensions
+
+django-heroku
+gunicorn # 장고 서비스 구동할때
+psycopg2 #
